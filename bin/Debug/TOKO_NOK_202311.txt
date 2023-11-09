@@ -1,0 +1,38 @@
+*************** HISTORY TOKO GAGAL AMBIL DATA ***************
+2023-11-01 13:41:57 | FUUZ | Ping request timed out
+2023-11-01 13:42:05 | FX5J | Ping request timed out
+2023-11-01 13:42:13 | TIDAK KONEK : 10.254.100.34
+2023-11-01 13:42:13 | P007 : Access denied for user 'root'@'192.168.190.37' (using password: YES)
+2023-11-01 13:43:31 | T0NT | Ping request timed out
+2023-11-01 13:46:53 | T6W2 | Ping request timed out
+2023-11-01 13:49:33 | TA2S | Ping request timed out
+2023-11-01 13:50:07 | TAAL | Ping request timed out
+2023-11-01 13:50:38 | TB0K | Ping request timed out
+2023-11-01 13:51:23 | TC57 | Ping request timed out
+2023-11-01 13:51:52 | TCD7 | Ping request timed out
+2023-11-01 13:53:23 | TEQI | Ping request timed out
+2023-11-01 13:54:04 | TGNS | Ping request timed out
+2023-11-01 13:55:07 | TIDAK KONEK : 10.39.14.132
+2023-11-01 13:55:09 | TI4C : Unable to connect to any of the specified MySQL hosts.
+2023-11-01 13:56:07 | TJ4D | Ping request timed out
+2023-11-01 13:56:55 | TL29 | Ping request timed out
+2023-11-01 13:57:22 | TIDAK KONEK : 10.39.169.98
+2023-11-01 13:57:22 | TLMI : Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+2023-11-01 13:58:42 | TONF | Ping request timed out
+2023-11-01 14:00:07 | TRFN | Ping request timed out
+2023-11-01 14:01:35 | TTC5 | Ping request timed out
+2023-11-01 14:01:42 | TTEQ | Ping request timed out
+2023-11-01 14:04:50 | TXXH | Ping request timed out
+2023-11-01 14:05:05 | TYCB | Ping request timed out
+2023-11-01 14:05:17 | TIDAK KONEK : 10.39.67.229
+2023-11-01 14:05:19 | TZ3Q : Unable to connect to any of the specified MySQL hosts.
+2023-11-01 14:05:21 | TZGC | Ping request timed out
+2023-11-05 13:39:42 | T011 | Ping request timed out
+2023-11-05 13:40:25 | T6L6 | Ping request timed out
+2023-11-05 13:40:36 | TBHA | Ping request timed out
+2023-11-05 13:40:54 | TI7F | Ping request timed out
+2023-11-09 14:53:43 | F7HX | Ping request timed out
+2023-11-09 14:57:37 | T1LQ | Ping request timed out
+2023-11-09 14:58:37 | T49T | Ping request timed out
+2023-11-09 14:59:03 | T5GM | Ping request timed out
+2023-11-09 15:00:55 | TALP | Ping request timed out
